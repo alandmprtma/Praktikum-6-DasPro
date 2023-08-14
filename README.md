@@ -10,7 +10,7 @@ Cara penggunaan modul tester adalah sebagai berikut (silahkan di-copy)
 import tester
 tester.start("input.txt")
 file = open("input.txt", "r")
-# Tulis program kalian disini
+#Tulis program kalian disini
 tester.end("input.txt")
 Tidak diperkenankan menggunakan dictionary
 ## Soal 2
@@ -25,7 +25,7 @@ import tester
 tester.start("input.txt")
 fileIn = open("input.txt", "r")
 fileOut = open("output.txt", "w")
-# Tulis program kalian disini
+#Tulis program kalian disini
 tester.end("output.txt")
 Tidak diperkenankan menggunakan .sort(), tetapi boleh menggunakan string comparison ("a" < "b")
 ## Soal 3
@@ -38,7 +38,7 @@ Cara penggunaan modul tester adalah sebagai berikut (silahkan di-copy)
 import tester
 tester.start("input.txt")
 file = open("input.txt", "r")
-# Tulis program kalian disini
+#Tulis program kalian disini
 tester.end("input.txt")
 ## Soal 4
 Bandung Bondowoso mencatat seluruh candi yang dibuat oleh 10 jin-nya pada file input.txt dengan format csv, yaitu dengan header kolom dan , (koma) sebagai pemisah antar datanya. Jin terajin adalah jin yang membangun candi paling banyak. Bantu bandung bondowoso mencari jumlah candi yang dibangun oleh jin terajin ke-3 dari data tersebut! Nama file program Anda harus main.py.
